@@ -64,7 +64,7 @@ function notifyChanges() {
 }
 
 // Schedule the script to run every minute (or adjust the interval as needed)
-cron.schedule('* * * * *', checkForChanges);
+cron.schedule('0 7 * * *', checkForChanges);
 
 // Run the script immediately
 checkForChanges();
