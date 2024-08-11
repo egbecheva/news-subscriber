@@ -7,7 +7,7 @@ const cron = require('node-cron');
 
 console.log(process.env.EMAIL_USER, process.env.EMAIL_PASS);
 
-const url = 'https://btvnovinite.bg/';
+const url = 'http://dg123sharl-pero.com/novini/';
 const previousContentFile = 'previousContent.txt';
 
 async function checkForChanges() {
