@@ -7,7 +7,7 @@ const cron = require('node-cron');
 
 console.log(process.env.EMAIL_USER, process.env.EMAIL_PASS);
 
-const url = 'http://dg123sharl-pero.com/novini/';
+const url = 'https://btvnovinite.bg/';
 const previousContentFile = 'previousContent.txt';
 
 async function checkForChanges() {
@@ -64,7 +64,7 @@ function notifyChanges() {
 }
 
 // Schedule the script to run every minute (or adjust the interval as needed)
-cron.schedule('0 7 * * *', checkForChanges);
+cron.schedule('* * * * *', checkForChanges);
 
 // Run the script immediately
 checkForChanges();
