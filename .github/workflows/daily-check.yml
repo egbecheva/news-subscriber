@@ -3,7 +3,7 @@ name: Daily Website Check
 on:
   schedule:
     # Runs every day at 7:00 AM UTC
-    - cron: '* * * * *'
+    - cron: '0 7 * * *'
 
 jobs:
   check-for-changes:
