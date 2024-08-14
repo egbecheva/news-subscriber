@@ -19,9 +19,13 @@ jobs:
 
       - name: Install dependencies
         run: npm install
+       
 
       - name: Run the script
         run: node crawler.js
+        env:
+          EMAIL_USER: ${{ secrets.EMAIL_USER }}
+          EMAIL_PASS: ${{ secrets.EMAIL_PASS }}
 
       - name: Commit and push changes
         run: |
