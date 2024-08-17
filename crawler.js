@@ -63,8 +63,5 @@ function notifyChanges() {
   });
 }
 
-// Schedule the script to run every minute (or adjust the interval as needed)
-cron.schedule('* * * * *', checkForChanges);
-
 // Run the script immediately
 checkForChanges();
