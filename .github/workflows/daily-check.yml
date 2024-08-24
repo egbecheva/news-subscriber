@@ -35,8 +35,7 @@ jobs:
         run: |
           git add previousContent.txt
           if git diff-index --quiet HEAD --; then
-            echo "No changes to commit"
-            exit 
+            echo "No changes to commit" 
           else
             git commit -m "Update previousContent.txt"
             git push
