@@ -4,7 +4,7 @@
   <div id="trw">
   	<div id="tdc" class="header h30">
     	<div id="head-div" class="site_width">
-
+    	 <span id="DateID"></span> <span id="clockID"></span>        </div>
   	</div>
   </div>  <div id="trw">
     <div id="tdc" class="top_bg header_height">
