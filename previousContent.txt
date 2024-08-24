@@ -12,8 +12,7 @@
 	<div id="trw">
     	<div id="tdc" class="w1 padding_5 header_height">
 		<img src="http://dg123sharl-pero.com/images/logo.png" alt="ДГ 123 Шарл Перо - ДГ 123 Шарл Перо - София" id="site_logo">        </div>
-        <div id="tdc" class="header_height">
-		<div class="h1-text">ДГ 123 Шарл Перо</div><div class="h2-text">Детска градина в град София</div>		<div class="h_menu_div"><a href="http://dg123sharl-pero.com/shema-uchilishten-plod-i-shema-uchilishtno-mlyako/" class="h_menu">Схема "Училищен плод" и Схема "Училищно мляко"</a></div>
+ 		<div class="h1-text">ДГ 123 Шарл Перо</div><div class="h2-text">Детска градина в град София</div>		<div class="h_menu_div"><a href="http://dg123sharl-pero.com/shema-uchilishten-plod-i-shema-uchilishtno-mlyako/" class="h_menu">Схема "Училищен плод" и Схема "Училищно мляко"</a></div>
 	    </div>
       </div>
     </div>    </div>
