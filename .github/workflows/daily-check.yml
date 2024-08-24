@@ -3,6 +3,7 @@ name: Website Content Monitor
 on:
   schedule:
     - cron: '0 7 * * *'  # Adjust the schedule as needed
+  workflow_dispatch: 
 
 jobs:
   check-for-changes:
