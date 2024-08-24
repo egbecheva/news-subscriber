@@ -36,10 +36,10 @@ jobs:
           git add previousContent.txt
           if git diff-index --quiet HEAD --; then
             echo "No changes to commit"
-            echo "no_changes=true" >> $GITHUB_ENV
+            exit 0
           else
-            echo "Changes detected"
-            echo "no_changes=false" >> $GITHUB_ENV
+            git commit -m "Update previousContent.txt"
+            git push
           fi
 
       - name: Commit and push changes
