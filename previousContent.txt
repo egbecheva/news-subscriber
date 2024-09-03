@@ -59,9 +59,7 @@
     <h1 class="p-title h1margin">Новини и Събития  </h1>
     <div class="_6a _5u5j _6b">&nbsp;</div>    </div>
 </div>
-<div class="site_width news_table alt_news_table padding_10"><div class="restxt"><div id="trw"><div id="tdc"><h3><a href="http://dg123sharl-pero.com/novini/otvoreni-vrati-za-zapoznavane-na-roditelite-s-yaslenite-grupi.html" itemprop="headline">Отворени врати за запознаване на родителите с яслените групи </a></h3><time class="news_data" datetime="2023-09-05" itemprop="datePublished">05.09.2023</time><meta itemprop="datePublished" content="2023-09-05"><div itemprop="text">Отворени врати за запознаване на родителите с яслените групи </div>
-			<div align="right"><a href="http://dg123sharl-pero.com/novini/otvoreni-vrati-za-zapoznavane-na-roditelite-s-yaslenite-grupi.html" rel="nofollow">още ...</a></div>
-				</div></div></div></div><div class="site_width news_table alt_news_table padding_10"><div class="restxt"><div id="trw"><div id="tdc"><h3><a href="http://dg123sharl-pero.com/novini/grafik-roditelski-sreshti-za-uchebnata-2023-24g.html" itemprop="headline">График родителски срещи за учебната 2023/24г.</a></h3><time class="news_data" datetime="2023-08-28" itemprop="datePublished">28.08.2023</time><meta itemprop="datePublished" content="2023-08-28"><div itemprop="text">
+<div class="site_width news_table alt_news_table padding_10"><div class="restxt"><div id="trw"><div id="tdc"><h3><a href="http://dg123sharl-pero.com/novini/grafik-roditelski-sreshti-za-uchebnata-2024-25g.html" itemprop="headline">График родителски срещи за учебната 2024/25г.</a></h3><time class="news_data" datetime="2024-09-02" itemprop="datePublished">02.09.2024</time><meta itemprop="datePublished" content="2024-09-02"><div itemprop="text">
 
 
 
@@ -79,7 +77,7 @@
 
 
 
-18.09.2023г
+17.09.2024г
 17:30 часа
 
 
@@ -96,9 +94,11 @@
 
 
 
-18.09.2023г.
+17.09.2024г.
 17:30 ...</div>
-			<div align="right"><a href="http://dg123sharl-pero.com/novini/grafik-roditelski-sreshti-za-uchebnata-2023-24g.html" rel="nofollow">още ...</a></div>
+			<div align="right"><a href="http://dg123sharl-pero.com/novini/grafik-roditelski-sreshti-za-uchebnata-2024-25g.html" rel="nofollow">още ...</a></div>
+				</div></div></div></div><div class="site_width news_table alt_news_table padding_10"><div class="restxt"><div id="trw"><div id="tdc"><h3><a href="http://dg123sharl-pero.com/novini/otvoreni-vrati-za-zapoznavane-na-roditelite-s-yaslenite-grupi.html" itemprop="headline">Отворени врати за запознаване на родителите с яслените групи </a></h3><time class="news_data" datetime="2024-09-02" itemprop="datePublished">02.09.2024</time><meta itemprop="datePublished" content="2024-09-02"><div itemprop="text">Отворени врати за запознаване на родителите с яслените групи </div>
+			<div align="right"><a href="http://dg123sharl-pero.com/novini/otvoreni-vrati-za-zapoznavane-na-roditelite-s-yaslenite-grupi.html" rel="nofollow">още ...</a></div>
 				</div></div></div></div><div class="site_width news_table alt_news_table padding_10"><div class="restxt"><div id="trw"><div id="tdc"><h3><a href="http://dg123sharl-pero.com/novini/konkurs-za-detska-risunka-decata-za-badeshteto-na-planetata.html" itemprop="headline">Конкурс за детска рисунка "Децата за бъдещето на планетата"</a></h3><time class="news_data" datetime="2020-08-27" itemprop="datePublished">27.08.2020</time><meta itemprop="datePublished" content="2020-08-27"><div itemprop="text">Децата от ДГ 123 "Шарл перо" очакват подкрепата Ви. Моля, посетителите на сайта на градината да изразят покрепа като гласуват на долупосочения ...</div>
 			<div align="right"><a href="http://dg123sharl-pero.com/novini/konkurs-za-detska-risunka-decata-za-badeshteto-na-planetata.html" rel="nofollow">още ...</a></div>
 				</div></div></div></div><div class="site_width news_table alt_news_table padding_10"><div class="restxt"><div id="trw"><div id="tdc"><h3><a href="http://dg123sharl-pero.com/novini/nacionalni-godishni-nagradi-za-prinos-v-patnata-bezopasnost.html" itemprop="headline">Национални годишни награди за принос в ПЪТНАТА БЕЗОПАСНОСТ </a></h3><time class="news_data" datetime="2019-12-04" itemprop="datePublished">04.12.2019</time><meta itemprop="datePublished" content="2019-12-04"><div itemprop="text">Национални годишни награди за принос в ПЪТНАТА БЕЗОПАСНОСТ</div>
