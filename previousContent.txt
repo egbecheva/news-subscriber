@@ -138,7 +138,7 @@
 <div id="trw"><div id="tdc" class="padding_5"><a href="/za-nas/karta-na-sayta.html">Карта на сайта</a></div></div></div></div></div></div><div class="site_width footer_btm">
     <div id="trw" class="h30">
     	<div id="m_tdc" class="wp40 btm_l_txt">
-        Copyright © 2024 - infocall.bg Всички права запазени        </div>
+        Copyright © 2025 - infocall.bg Всички права запазени        </div>
     	<div id="m_tdc" class="wp20 btm_c_txt">
         <a href="http://add.bg" target="_blank" rel="dofollow">Design add.bg</a>
         </div>
