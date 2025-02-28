@@ -59,7 +59,9 @@
     <h1 class="p-title h1margin">Новини и Събития  </h1>
     <div class="_6a _5u5j _6b">&nbsp;</div>    </div>
 </div>
-<div class="site_width news_table alt_news_table padding_10"><div class="restxt"><div id="trw"><div id="tdc"><h3><a href="http://dg123sharl-pero.com/novini/grafik-roditelski-sreshti-za-uchebnata-2024-25g.html" itemprop="headline">График родителски срещи за учебната 2024/25г.</a></h3><time class="news_data" datetime="2024-09-02" itemprop="datePublished">02.09.2024</time><meta itemprop="datePublished" content="2024-09-02"><div itemprop="text">
+<div class="site_width news_table alt_news_table padding_10"><div class="restxt"><div id="trw"><div id="tdc" class="w130"><a href="http://dg123sharl-pero.com/novini/rayon-mladost-otbelyaza-godishninata-ot-gibelta-na-apostola-na-svoboda.html" rel="nofollow"><img src="http://dg123sharl-pero.com/images/101_1_s.jpg" alt="Район &quot;Младост&quot; отбеляза годишнината от гибелта на Апостола на свобода - ДГ 123 Шарл Перо - София" itemprop="image"></a></div><div id="tdc"><h3><a href="http://dg123sharl-pero.com/novini/rayon-mladost-otbelyaza-godishninata-ot-gibelta-na-apostola-na-svoboda.html" itemprop="headline">Район "Младост" отбеляза годишнината от гибелта на Апостола на свобода</a></h3><time class="news_data" datetime="2025-02-19" itemprop="datePublished">19.02.2025</time><meta itemprop="datePublished" content="2025-02-19"><div itemprop="text">Район "Младост" отбеляза годишнината от гибелта на Апостола на свобода</div>
+			<div align="right"><a href="http://dg123sharl-pero.com/novini/rayon-mladost-otbelyaza-godishninata-ot-gibelta-na-apostola-na-svoboda.html" rel="nofollow">още ...</a></div>
+				</div></div></div></div><div class="site_width news_table alt_news_table padding_10"><div class="restxt"><div id="trw"><div id="tdc"><h3><a href="http://dg123sharl-pero.com/novini/grafik-roditelski-sreshti-za-uchebnata-2024-25g.html" itemprop="headline">График родителски срещи за учебната 2024/25г.</a></h3><time class="news_data" datetime="2024-09-02" itemprop="datePublished">02.09.2024</time><meta itemprop="datePublished" content="2024-09-02"><div itemprop="text">
 
 
 
